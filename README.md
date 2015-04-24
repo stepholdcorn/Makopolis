@@ -3,16 +3,16 @@
 
 ##What is it? 
 Simple Board Game - with ruby questions
-[Makopolis Live Version](makopolis.herokuapp.com)  (hosted on heroku)  
+[Makopolis Live Version](http://makopolis.herokuapp.com) (hosted on heroku)  
 
-##code climate
+##Code climate
 [![Code Climate](https://codeclimate.com/github/sandagolcea/Makopolis/badges/gpa.svg)](https://codeclimate.com/github/sandagolcea/Makopolis)  
 [![Test Coverage](https://codeclimate.com/github/sandagolcea/Makopolis/badges/coverage.svg)](https://codeclimate.com/github/sandagolcea/Makopolis)
 
 ##Why?
 We built a coding based board game for our Makerthon Challenge, so that people might learn something about Ruby and have fun whilst doing it!
 
-##screenshot
+##Screenshot
 ![Makopolis](/Makopolis.png?raw=true "Makopolis board game")
 
 
@@ -39,7 +39,7 @@ Objectives
 * Learn about planning and design
 
 
-##technologies
+##Technologies
 * Javascript
 * JQuery
 * NODEjs, Express
